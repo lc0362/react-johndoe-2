@@ -1,0 +1,33 @@
+
+.body-style {
+  background-color: #EEE;
+  color: #444;
+  font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
+.text-1e1e1e {
+      color:#1e1e1e;
+    }
+.text-444{
+  color: #444;
+  
+  }
+
+
+a:hover  {
+  color: rgba(255, 255, 255, 0.8); /* Blanc avec transparence de 0.8 appliqué sur tous les liens du site au survol */
+}
+
+a {
+  text-decoration: none; /* Les liens du site ne sont pas soulignés*/
+}
+
+h1, h2, h3, strong {
+  font-weight: 600;
+}
+
+
+strong, b {
+  color: #000000;
+}

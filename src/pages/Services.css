@@ -1,0 +1,7 @@
+.icon {
+  color: #0069ff;
+}
+
+.service-bloc:hover .icon {
+  color: #cdeaf8;
+}
